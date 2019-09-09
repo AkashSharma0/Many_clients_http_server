@@ -1,0 +1,17 @@
+
+
+* Set : MAX_THREAD
+
+* Include pthread lib
+
+* Install : JSON and pthread lib
+
+* Terminal Command : gcc -g -o https https.c -ljson -lpthread
+
+* Type in browser: Http://IP:PORT NO
+
+
+
+
+
+
